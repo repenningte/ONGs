@@ -1,0 +1,39 @@
+body {
+    font-family: arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+}
+header {
+    background: #ffb6c1;
+    padding: 20px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+}
+.container {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+.ong-card {
+    padding: 15px;
+    border-radius: 10px;
+    background: #ffe6ea;
+    margin-bottom: 15px;
+}
+.ong-cardh3 {
+    margin: 0 0 8px;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    color: #555;
+    font-size: 14px;
+}  
+
+
